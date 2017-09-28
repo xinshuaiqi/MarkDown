@@ -61,7 +61,7 @@
 **Python packages**
 * basic
   * [Python3 迭代器与生成器](http://www.runoob.com/python3/python3-iterator-generator.html)
-  * 
+
 * scipy
 * numpy
 * pandas
@@ -79,9 +79,6 @@
 * [Python regex](https://docs.python.org/3.6/library/re.html)
 * [Python 进阶（中级）](http://docs.pythontab.com/interpy/)
 * [Path of data science using python](http://www.evernote.com/l/ALzgYtH566lHKZUu1l5P_uhRwn-uImxGoQg/)
-
-
-
 
 
 
@@ -117,14 +114,17 @@
 ## **Big Data & Data Science**
 * Docker [RUNOOP Docker](http://www.runoob.com/docker/docker-tutorial.html)
 * Scala [RUNOOP Scala](http://www.runoob.com/scala/scala-tutorial.html)
-* Apache Spark [wiki](https://en.wikipedia.org/wiki/Apache_Spark)
+
 * Hadoop
   * [Hadoop快速入门](https://hadoop.apache.org/docs/r1.0.4/cn/quickstart.html);
   * [Hadoop Map/Reduce教程](http://hadoop.apache.org/docs/r1.0.4/cn/mapred_tutorial.html); * [Hadoop 入门教程](http://hustlijian.github.io/tutorial/2015/06/19/Hadoop%E5%85%A5%E9%97%A8%E4%BD%BF%E7%94%A8.html)
   * **分布式计算开源框架Hadoop入门实践 (精品)** [1 ](http://www.infoq.com/cn/articles/hadoop-intro)[2    ](http://www.infoq.com/cn/articles/hadoop-config-tip)[3](http://www.infoq.com/cn/articles/hadoop-process-develop)
   * [大数据时代的宠儿——Hadoop简介和实践分享](http://www.cnblogs.com/chijianqiang/archive/2012/06/25/hadoop-info.html)
+* Apache Spark
+  * [wiki](https://en.wikipedia.org/wiki/Apache_Spark)
+  * [XSEDE HPC Workshop BIG DATA **Spark**](https://www.psc.edu/hpc-workshop-series/big-data-september-2017)
 * SQL [RUNOOB Tutorial](http://www.runoob.com/sql/sql-tutorial.html)
 
 * [从零开始，成为数据科学“大咖”](http://www.infoq.com/cn/news/2014/10/to-be-the-master-of-data-science)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
-* [XSEDE HPC Workshop BIG DATA](https://www.psc.edu/hpc-workshop-series/big-data-september-2017)
+ 
