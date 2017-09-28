@@ -108,8 +108,18 @@
 
 
 ## **Statistics**
+* [HarvardX Biomedical Data Science Open Online Training](http://rafalab.github.io/pages/harvardx.html)
+
 * [kaggle](https://www.kaggle.com/datasets)
 * [Tucson Plant Breeding Institute](http://www.plantbreedinginstitute.bio5.org/)
+
+
+
+
+
+
+
+
 
 ## **Big Data & Data Science**
 * Docker [RUNOOP Docker](http://www.runoob.com/docker/docker-tutorial.html)
@@ -127,4 +137,3 @@
 
 * [从零开始，成为数据科学“大咖”](http://www.infoq.com/cn/news/2014/10/to-be-the-master-of-data-science)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
- 
