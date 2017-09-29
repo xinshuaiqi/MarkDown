@@ -1,7 +1,7 @@
-# **Xinshuai Qi Summary and Notes**
-# **Programming, Statistics, Bioinformatics and Data Science**
+# **Xinshuai Qi's Summary and Notes on**
+# **Programming, Statistics, and Data Science**
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -- by Xinshuai Qi
-（last update on 9-10-2017）
+（last update on 9-28-2017）
 
 ### This document is a summary of all the online resources that I used to learn the above mentioned skills.
 
@@ -31,7 +31,7 @@
 * [R_graphics](http://www.statmethods.net/graphs/index.html)
 * [学习R语言，一篇文章让你从懵圈到入门](http://www.xueqing.tv/cms/article/198)（A list of common and useful R packages)
 * [如何学习 R 语言？知乎](https://www.zhihu.com/question/21654166)
-
+* [swirl （learn R in R）](http://swirlstats.com/)
 
 * good R books:
   * 《ggplot2 Elegant Graphics for Data Analysis》
@@ -94,7 +94,7 @@
 ## **Linux**
 * AWK
 * REGEX [RUNOOP regular express](http://www.runoob.com/scala/scala-tutorial.html)
-## **Bioinformatics**
+
 
 
 
@@ -109,7 +109,8 @@
 
 ## **Statistics**
 * [HarvardX Biomedical Data Science Open Online Training](http://rafalab.github.io/pages/harvardx.html)
-
+  * [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
+  * [Bioconductor for Genomic Data Science](http://kasperdanielhansen.github.io/genbioconductor/) [fiveMinuteStats](http://stephens999.github.io/fiveMinuteStats/index.html)
 * [kaggle](https://www.kaggle.com/datasets)
 * [Tucson Plant Breeding Institute](http://www.plantbreedinginstitute.bio5.org/)
 
